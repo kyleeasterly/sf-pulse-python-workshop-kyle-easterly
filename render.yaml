@@ -1,5 +1,5 @@
 projects:
-  - name: sf-pulse-python
+  - name: sf-pulse-kyle-easterly
     environments:
       - name: production
         databases:
